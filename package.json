@@ -1,7 +1,7 @@
 {
   "name": "vue-nfp-gallery",
   "version": "0.1.0",
-  "description": "Vue Gallery from www.hacker-pschorr.de/himmel-der-bayern/",
+  "description": "Custom vue gallery.",
   "dependencies": {
     "animate.css": "^3.5.2",
     "lazysizes": "^3.0.0",
@@ -76,7 +76,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/twitnic/vue-nfs-gallery.git"
+    "url": "git+ssh://git@github.com/twitnic/vue-nfp-gallery.git"
   },
   "keywords": [
     "Vue"
@@ -84,7 +84,7 @@
   "author": "Dominic Richter",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/twitnic/vue-nfs-gallery/issues"
+    "url": "https://github.com/twitnic/vue-nfp-gallery/issues"
   },
-  "homepage": "https://github.com/twitnic/vue-nfs-gallery#readme"
+  "homepage": "https://github.com/twitnic/vue-nfp-gallery#readme"
 }
