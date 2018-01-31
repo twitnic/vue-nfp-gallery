@@ -1,6 +1,6 @@
 {
   "name": "vue-nfp-gallery",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Custom vue gallery.",
   "dependencies": {
     "animate.css": "^3.5.2",
