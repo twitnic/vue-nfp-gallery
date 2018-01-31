@@ -1,10 +1,14 @@
+# FORK
+
+This is a Fork from https://www.npmjs.com/package/vue-images
+
+
+
 # vue-images
 [![npm version](https://img.shields.io/npm/v/vue-images.svg)](https://badge.fury.io/js/vue-images)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://github.com/littlewin-wang/vue-images/blob/master/LICENSE)
 
 > A simple lightbox component for displaying an array of images
-
-<br><img src="https://cloud.githubusercontent.com/assets/14028075/22059135/9a633f74-dda6-11e6-8314-3b745801b4e1.gif" width="70%" height="70%">
 
 ## Feature
 
