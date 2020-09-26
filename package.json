@@ -4,7 +4,7 @@
   "description": "Custom vue gallery.",
   "dependencies": {
     "animate.css": "^3.5.2",
-    "lazysizes": "^3.0.0",
+    "lazysizes": "^5.2.2",
     "vue": "^2.1.0"
   },
   "devDependencies": {
